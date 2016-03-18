@@ -16,19 +16,25 @@ html {
 
 .grains li {
 
+
 }
 
 .grains img {
   width: 100px;
   float: left;
+
+
 }
 
 .grains h2 {
-  float: right;
+float: right;
+
+
 
 }
 
 .grains p {
   float: right;
+
 
 }
